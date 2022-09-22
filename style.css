@@ -1,0 +1,19 @@
+p {
+    font-family: Helvetica;
+}
+h3 {
+    background-image: pattern.j;
+}
+.title {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+.subheading {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
